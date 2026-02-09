@@ -30,7 +30,7 @@ impl Developer {
             "Windows".into(),
             Machine {
                 name: "Gaming PC".into(),
-                cpu: "Intel Core i5-13600K  · 14C / 20T".into(),
+                cpu: "Intel Core i5-13600K · 14C / 20T".into(),
                 gpu: "AMD Radeon RX 7900 XT · 20 GB".into(),
                 ram: "32GB".into(),
             },
