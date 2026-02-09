@@ -31,8 +31,8 @@ impl Developer {
             Machine {
                 name: "Gaming PC".into(),
                 cpu: "Intel Core i5-13600K — 14C / 20T · 3.5–5.1 GHz".into(),
+                gpu: "AMD Radeon RX 7900 XT · 20 GB".into(),
                 ram: "32GB".into(),
-                gpu: "RX 7900 XT".into(),
             },
         );
 
